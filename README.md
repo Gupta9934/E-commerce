@@ -40,10 +40,3 @@ The views are located in `src/main/webapp/views`, but for some reason, Spring Bo
 
 When you run the project, the views should be found by Spring Boot and you should see a login page in http://localhost:8080/ (if not logged in previously)!
 ![configurations](image.png)
-
-
-## Link
-- 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼 + 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗸  ( old version )::---  [  click here  ](https://youtu.be/c6WWdINWSlI) [![youtube][youtube-shield]][youtube-url]
-
-[youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
-[youtube-url]:  https://youtu.be/c6WWdINWSlI
